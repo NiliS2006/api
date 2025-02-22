@@ -1,0 +1,28 @@
+/* for presentation only */
+
+body {
+	font: 16px Arial, Helvetica, sans-serif;
+	margin: 0;
+}
+
+.weather-wrapper {
+	background: lightcoral;
+	margin: 5% 0 5% 5%;
+	padding: 40px 5%;
+	float: left;
+	color: lightseagreen;
+	width: 70%;
+	max-width: 400px;
+}
+
+strong {
+	color:blanchedalmond ;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.hide {
+	display: none;
+}
